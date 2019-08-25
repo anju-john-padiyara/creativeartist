@@ -136,10 +136,10 @@ p {
 --------------------------------------------------------------*/
 
 body {
-  background: #ff7e5f;
+  background: #1488CC;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #ff7e5f, #feb47b);
-  background: linear-gradient(to left, #ff7e5f, #feb47b);
+  background: -webkit-linear-gradient(to left, #1488CC, #c471ed, #f64f59);
+  background: linear-gradient(to left, #1488CC, #c471ed, #f64f59);
 }
 
 .social {
