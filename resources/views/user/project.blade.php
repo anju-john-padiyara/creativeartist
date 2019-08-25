@@ -15,7 +15,7 @@
     <h1 class="scroll-reveal">{{$project->project_title}}</h1>
     <p class="info scroll-reveal">{{$project->project_link}}</p>
 
-    <p class="scroll-reveal">{{$project->project_description}}</p>
+    <p class="scroll-reveal description">{{$project->project_description}}</p>
 
     <div class="row images">
       @foreach($project->projectImage as $projectImage)

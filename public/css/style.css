@@ -484,7 +484,9 @@ body.page-contact-2 .introduction {
   padding-top: 200px;
   padding-bottom: 60px;
 }
-
+.description{
+  margin-bottom: 25px;
+}
 .single-portfolio h1 {
   font-size: 30px;
   padding-top: 25px;
