@@ -487,14 +487,11 @@ body.page-contact-2 .introduction {
 
 .single-portfolio h1 {
   font-size: 55px;
-  margin-top: 70px;
-  margin-bottom: 15px;
 }
 
 .single-portfolio .info {
   color: #2b2b2b;
   font-size: 16px;
-  margin-bottom: 50px;
 }
 
 .single-portfolio p {
@@ -503,7 +500,6 @@ body.page-contact-2 .introduction {
 }
 
 .single-portfolio .images {
-  margin-top: 70px;
   margin-bottom: 60px;
 }
 

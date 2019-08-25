@@ -31,9 +31,9 @@
 clip effect
 -------------------------------- */
 .cd-headline{
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 700;
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 .cd-headline.clip span {
@@ -42,6 +42,7 @@ clip effect
 .cd-headline.clip .cd-words-wrapper {
     overflow: hidden;
     vertical-align: top;
+    height: 29px;
 }
 .cd-headline.clip .cd-words-wrapper::after {
     /* line */
