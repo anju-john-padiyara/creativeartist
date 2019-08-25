@@ -1,8 +1,9 @@
-@component('mail::message')
-# Introduction
-
-You have a message from {{$contact->name}} - {{$contact->email}} 
-{{$contact->message}}
-
-Thanks
-@endcomponent
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<p>{{ $contact->message }}</p>
+	</body>
+</html>

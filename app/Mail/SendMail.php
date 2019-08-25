@@ -31,6 +31,14 @@ class SendMail extends Mailable
      */
     public function build()
     {
-        return $this->markdown('user.send-mail')->with('contact', $this->contact);
+        $address = $this->contact->email;
+        $subject = "A message from ".$this->contact->name;
+        $name = $this->contact->name;
+        
+        return $this->view('user.send-mail')
+                    ->from($address, $name)
+                    ->replyTo($address, $name)
+                    ->subject($subject)
+                    ->with([ 'contact' => $this->contact ]);
     }
 }
