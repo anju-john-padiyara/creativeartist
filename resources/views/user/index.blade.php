@@ -121,7 +121,7 @@ clip effect
         </div> <!-- /.col-md-6 -->
 
         <div class="col-md-6">
-          <p class="scroll-reveal">Designing  with subtle details and brand guidelines with the combination of innovative visualization and artistic touch  became my daily companion. I’m a professional Graphic Designer, Website Designer, Photographer and experienced Freelancer.</p>
+          <p class="scroll-reveal">Designing  with subtle details and brand guidelines with the combination of innovative visualization and artistic touch  became my daily companion. I'm a professional Graphic Designer, Website Designer, Photographer and experienced Freelancer.</p>
         </div> <!-- /.col-md-6 -->
 
       </div> <!-- /.row -->
