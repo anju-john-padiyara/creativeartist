@@ -43,7 +43,7 @@
                   }">
                   <i class="fa fa-trash"></i> Delete</a>
               </td>
-              <td><a href="{{ $project->project_pathname }}"><i class="fas fa-eye"></i> View</a></td>
+              <td><a href="/project/{{ $project->project_pathname }}"><i class="fas fa-eye"></i> View</a></td>
             </tr>
             @endforeach
           </tbody>
