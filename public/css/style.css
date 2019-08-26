@@ -1206,7 +1206,10 @@ footer nav a:hover {
 
 @media only screen and (max-width: 767px) {
   body {
-    background: #ff7e5f;
+    background: #1488CC;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #1488CC, #c471ed, #f64f59);
+    background: linear-gradient(to left, #1488CC, #c471ed, #f64f59);
   }
 
   .introduction {
@@ -1267,7 +1270,11 @@ footer nav a:hover {
   }
 
   .intro {
-    padding-top: 150px;
+    padding-top: 60px;
+  }
+  
+  .single-portfolio {
+    padding-top: 60px;
   }
 
   .studio img {
