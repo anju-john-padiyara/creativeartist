@@ -69,7 +69,7 @@
 
             <div class="form-group">
               <label for="message">Message</label>
-              <textarea id="message" name="message" class="form-control" rows="6" placeholder="Write your message here" required>{{ old('email') }}</textarea>
+              <textarea id="message" name="message" class="form-control" rows="6" placeholder="Write your message here" required>{{ old('message') }}</textarea>
               <div class="help-block with-errors"></div>
             </div>
             <div class="g-recaptcha" 
