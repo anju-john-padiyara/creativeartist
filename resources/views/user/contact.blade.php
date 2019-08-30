@@ -57,19 +57,19 @@
              {{csrf_field()}}
             <div class="form-group">
               <label for="name">Name</label>
-              <input name="name" type="text" class="form-control" id="name" placeholder="Your name" required data-error="Name missing">
+              <input name="name" type="text" class="form-control" id="name" placeholder="Your name" required value="{{ old('name') }}" >
               <div class="help-block with-errors"></div>
             </div>
 
             <div class="form-group">
               <label for="email">Email</label>
-              <input type="email" name="email" class="form-control" id="email" placeholder="Your email" required>
+              <input type="email" name="email" class="form-control" id="email" placeholder="Your email" required value="{{ old('email') }}">
               <div class="help-block with-errors"></div>
             </div>
 
             <div class="form-group">
               <label for="message">Message</label>
-              <textarea id="message" name="message" class="form-control" rows="6" placeholder="Write your message here" required></textarea>
+              <textarea id="message" name="message" class="form-control" rows="6" placeholder="Write your message here" required>{{ old('email') }}</textarea>
               <div class="help-block with-errors"></div>
             </div>
             <div class="g-recaptcha" 
