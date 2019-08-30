@@ -9,6 +9,6 @@
 
 @if (session()->has('message'))
 
-	<p class="alert alert-success">{{ session('message') }} </p>
+	<p class="alert alert-success justify-content-center">{{ session('message') }} </p>
 
 @endif

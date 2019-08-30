@@ -373,7 +373,7 @@ body.page-about-2 .introduction {
 }
 
 body.page-about-3 .introduction {
-  transform-origin: 50% 60%;
+  transform-origin: 50% 80%;
 }
 
 body.page-blog-1 .introduction {
@@ -1062,7 +1062,6 @@ body.page-contact-2 .introduction {
 .contact-2-info {
   background-color: #f8f8f8;
   text-align: center;
-  padding: 30px;
   height: 175px;
   display: flex;
   display: -webkit-flex;
@@ -1079,7 +1078,7 @@ body.page-contact-2 .introduction {
 }
 
 .contact-2-info p {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 
@@ -1205,6 +1204,9 @@ footer nav a:hover {
 
 
 @media only screen and (max-width: 767px) {
+  .about-2 .sub-section {
+      padding-top: 50px;
+  }
   body {
     background: #1488CC;
     /* fallback for old browsers */

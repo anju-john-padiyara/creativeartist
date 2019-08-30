@@ -36,7 +36,10 @@ class HomeController extends Controller
             'name' => 'required',
             'email' => 'required',
             'message' => 'required',
+            'g-recaptcha-response'=>'required|recaptcha',
         ]);
+
+
 
         $contact = new Contact;
         $contact->name = $request->name;

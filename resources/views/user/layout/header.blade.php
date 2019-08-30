@@ -6,6 +6,7 @@
 
 <title>@yield('title')</title>
 @yield('style')
+@yield('head')
 <!-- Favicon -->
 <link href="/favicon.ico" rel="shortcut icon" />
 <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
