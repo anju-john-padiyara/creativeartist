@@ -91,4 +91,23 @@
 
 @section('script')
 <script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "additionalName": "Sai Kiran",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "India",
+        "addressRegion": "Kottayam",
+        "postalCode": "686011",
+        "streetAddress": "Ramanilayam, Puthupally, Kottayam",
+        "email": "imthecreativeartist@gmail.com",
+        "telephone": "+91 80754 98627"
+    },
+    "jobTitle": "Artist",
+    "image": "https://www.creativeartist.in/images/cover.png"
+}
+</script>
 @endsection

@@ -42,7 +42,6 @@ class ProjectController extends Controller
         $this->validate($request, [
             'project_title' => 'required',
             'project_description' => 'required',
-            'about_client' => 'required',
             'banner_image' => 'required',
             'thumbnail_image' => 'required',
         ]);
@@ -126,7 +125,6 @@ class ProjectController extends Controller
         $this->validate($request, [
             'project_title' => 'required',
             'project_description' => 'required',
-            'about_client' => 'required',
         ]);
 
         $arImages = [];

@@ -60,8 +60,17 @@
         </div> 
 
         <div class="col-md-9 scroll-reveal">
-          <p>Hi there! I'm Sai Kiran, 
-I have been working in Designing industry for last 5 years and I have worked in different firms and department of UI UX, Digital Branding, Packaging, Video Editing and Motion graphics industry, I have sharpened my skills of illustration and art in both digital and manual platforms. I have worked with tools like Wacoms, Apple pencil in procreate for my illustrations and brainstorming activities. My iPad and apple pencil is my daily companion. I used to draw in my sketchbook but switched to iPad and apple pencil for my easy workflow and portability. I have keen observation for tiny detail to finish every projects at its most quality to satisfy my every clients! I have worked for may clients and industries.</p>
+        <p>A big Hi to all who love the world of beauty and art!  I’m Sai Kiran – a prolific creative artist with more than 5+ years of expertise in the Designing industry.</p>
+
+        <p>I specialize in areas like UI UX, Digital Branding, Illustrations, Photography, Animation videos, Packaging, Video Editing and Motion graphics. During this time, I have worked with many top design firms and clients from different parts of the world. If you are looking for stunning and customized design works, then I would be your best bet.</p>
+
+        <p>I have excelled in both manual and digital platforms. The tools that I use frequently are Photoshop, Illustrator, Premier Pro, After Effects, Autodesk Maya, ToonBoom, and Procreate. I also do have a passion for artistic photography.</p>
+
+        <h2>What you can expect from me?</h2>
+
+        <p>Since I have an eye for detail, and the thirst for perfection, I do brainstorm each project handed to me. My past works are evidence of my skill. I have been able to combine the fine lines of creative vibes with strategic thinking. I do update and research myself on the best tools that can be used for each project per se. My customized works are known for their professionalism, time management, clarity, and the works are highly message driven.</p>
+
+        <p>If you would like to know me better, I would be happy to have a quick chat! </p>
         </div> <!-- /.col-md-9 -->
       </div> <!-- /.row -->
     </div> <!-- /.sub-section -->
